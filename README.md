@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rinkitadhana
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... java programming
-- 💞️ I’m looking to collaborate on .../
+- 💞️ I’m looking to collaborate on ... /
 - 📫 How to reach me ... therinkit@gmail.com
      
 <!---
