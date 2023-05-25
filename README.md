@@ -11,8 +11,7 @@
 - 💬 Ask me about **Java, HTML, CSS, C**
 
 - 📫 How to reach me **therinkit@gmail.com**
-
--🧑🏻‍💻 My latest project https://master--lyterate.netlify.app/
+- 🧑🏻‍💻 My latest project https://master--lyterate.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
