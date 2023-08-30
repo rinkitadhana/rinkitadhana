@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **DSA in Java**
+- 🌱 I’m currently learning **DSA in Java**.
 
-- 💬 Ask me about **Java, HTML, CSS, C**
+- 💬 Ask me about **Java, HTML, CSS, C**.
 
-- 📫 How to reach me **therinkit@gmail.com**
+- 📫 How to reach me **therinkit@gmail.com**.
 - 🔗 Connect with me https://linkedin.com/in/rinkit-adhana
 - 🧑🏻‍💻 Check my repository for the latest projects.
 - If anyone one to collaborate with my projects they can Mail me at therinkit@gmail.com.
