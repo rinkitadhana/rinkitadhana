@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA in Java**.
 
-- 💬 Ask me about **Java, HTML, CSS, C**.
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, C**.
 
 - 📫 How to reach me **therinkit@gmail.com**
 - 🔗 Connect with me https://linkedin.com/in/rinkit-adhana
