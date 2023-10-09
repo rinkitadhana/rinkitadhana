@@ -5,7 +5,7 @@ c[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52
 
 
 
-- 🌱 I’m currently learning **DSA in Java**.
+- 🌱 I am currently available and actively seeking employment opportunities..
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, C**.
 
@@ -13,7 +13,6 @@ c[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52
 - 🔗 Connect with me https://linkedin.com/in/rinkit-adhana
 - 🖼️ Checkout my portfolio website https://therinkit.netlify.app
 - 🧑🏻‍💻 Check my repository for the latest projects.
-- I am currently available and actively seeking employment opportunities.
 - If anyone wants to collaborate with my projects then he/she can Mail me at therinkit@gmail.com.
 
 
