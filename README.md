@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **therinkit@gmail.com**
 - 🔗 Connect with me https://linkedin.com/in/rinkit-adhana
+- 🖼️ Checkout my portfolio website https://therinkit.netlify.app
 - 🧑🏻‍💻 Check my repository for the latest projects.
 - If anyone wants to collaborate with my projects then he/she can Mail me at therinkit@gmail.com.
 
