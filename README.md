@@ -5,7 +5,7 @@ c[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52
 
 
 
-- 🌱 I am currently available and actively seeking employment opportunities..
+- **I am currently available and actively seeking employment opportunities.**
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, C**.
 
