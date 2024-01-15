@@ -4,7 +4,7 @@
 
 - **I am currently available and actively seeking employment opportunities.**
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, C**.
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, C, C++**.
 
 - 📫 How to reach me **therinkit@gmail.com**
 - 🔗 Connect with me https://linkedin.com/in/rinkit-adhana
