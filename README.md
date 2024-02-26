@@ -1,13 +1,20 @@
-<h1 align="center">Hi, I'm Rinkit Adhana</h1>
-<h3 align="center">A passionate Front-End developer from India</h3>
-<img align="right" alt="coding" width="250" src="https://gifsec.com/wp-content/uploads/2022/11/dark-anime-gif-16.gif">
+# Hey there :wave:
 
-- **I am currently available and actively seeking employment opportunities.**
+<img src="https://miro.medium.com/v2/resize:fit:1000/1*aPfdrf5Y14OzFUXgEwB9TA.jpeg" alt="Hello world">
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, C, C++**.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rinkitadhana/count.svg" />
+</p>
 
-- 📫 How to reach me **therinkit@gmail.com**
-- 🔗 Connect with me https://linkedin.com/in/rinkit-adhana
-- 🖼️ Checkout my portfolio website https://therinkit.netlify.app
-- 🧑🏻‍💻 Check my repository for the latest projects.
+## About me
+
+Greetings! I'm Rinkit Adhana, currently in my second year pursuing B.Tech in Computer Science and Engineering at Maharaja Agrasen Institute of Technology. My passion lies in full-stack web development, where I thrive on crafting dynamic and user-centric digital experiences.
+
+My expertise encompasses a wide array of programming languages and tools, including Java, C, and C++, alongside proficiency in Data Structures and Algorithms (DSA). Embracing the full-stack paradigm, I am adept in both front-end and back-end technologies, leveraging frameworks like EJS for templating, SQL and PostgreSQL for database management, and Node.js with Express.js for server-side development.
+
+## Get in touch :coffee:
+
+- **therinkit@gmail.com**
+- [LinkedIn](https://www.linkedin.com/in/rinkitadhana)
 
