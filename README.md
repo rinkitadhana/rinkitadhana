@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://miro.medium.com/v2/resize:fit:1000/1*aPfdrf5Y14OzFUXgEwB9TA.jpeg" alt="Hello world">
+<img src="https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
