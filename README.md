@@ -1,8 +1,6 @@
 # Hey there :wave:
 
 <img src="https://github.com/rinkitadhana/rinkitadhana/assets/115058302/81855ae1-cfb8-45c5-b7c8-5f52407c74bb" alt="Hello world">
-![github-banner](https://github.com/rinkitadhana/rinkitadhana/assets/115058302/81855ae1-cfb8-45c5-b7c8-5f52407c74bb)
-
 
 <p align="center"> 
   Visitor count<br>
