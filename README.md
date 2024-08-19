@@ -9,9 +9,7 @@
 
 ## About me
 
-Greetings! I'm Rinkit Adhana, currently in my second year pursuing B.Tech in Computer Science and Engineering at Maharaja Agrasen Institute of Technology. My passion lies in full-stack web development, where I thrive on crafting dynamic and user-centric digital experiences.
-
-My expertise encompasses a wide array of programming languages and tools, including Java, C, and C++, alongside proficiency in Data Structures and Algorithms (DSA). Embracing the full-stack paradigm, I am adept in both front-end and back-end technologies, leveraging frameworks like EJS for templating, SQL and PostgreSQL for database management, and Node.js with Express.js for server-side development.
+Hey, I'm Rinkit Adhana, a third-year student exploring the field of engineering. I live in Delhi, India, and I'm a full-stack developer who loves building things and learning something new every day from them. I mainly work with React and Tailwind for frontend development and Express and MongoDB for backend. As a computer science student, I'm also skilled in data structures and algorithms and practice my problem-solving skills daily. I'm looking for opportunities in both web development and software engineering roles.
 
 ## Get in touch :coffee:
 
