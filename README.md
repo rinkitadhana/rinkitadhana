@@ -9,8 +9,9 @@
 
 ## About me
 
-Hey, I’m Rinkit Adhana, an undergraduate computer science student and a full-stack developer based in Delhi, India. I’m passionate about building and shipping cool, practical projects that people actually use.
+Hey, I'm Rinkit Adhana, an undergraduate Computer Science student and full-stack developer who loves building and shipping things that people actually use.
 
+I mainly work with React.js, Next.js, and Node.js for both frontend and backend, using TypeScript alongside them. I have created many cool projects using these technologies.
 ## Get in touch :coffee:
 
 - **therinkit@gmail.com**
