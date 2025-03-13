@@ -9,7 +9,7 @@
 
 ## About me
 
-Hey, I'm Rinkit Adhana, an undergraduate Computer Science student and full-stack developer who loves building and shipping things that people actually use.
+Hey, I'm Rinkit Adhana, an undergraduate Computer Science student and full-stack developer who loves building and shipping things.
 
 I mainly work with React.js, Next.js, and Node.js for both frontend and backend, using TypeScript alongside them. I have created many cool projects using these technologies.
 ## Get in touch :coffee:
