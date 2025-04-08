@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/rinkitadhana/count.svg" />
 </p>
 
-## About me
+## About me | `npx rinkit`
 
 Hey, I'm Rinkit Adhana, an undergraduate Computer Science student and full-stack developer who loves building and shipping things.
 
