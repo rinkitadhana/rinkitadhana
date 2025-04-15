@@ -1,5 +1,5 @@
 # Hi there, I'm Rinkit Adhana! 
-**Software Engineer | Open Source Enthusiast**
+#### **Software Engineer | Open Source Enthusiast**
 
 ## About me
 
