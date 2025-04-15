@@ -9,7 +9,7 @@
 - Run `npx rinkit` to view my portfolio right from your terminal.
 
 
-## GitHub Stats
+## Code Stats
 ![Rinkit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinkitadhana&show_icons=true&theme=dark)
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rinkitadhana&theme=dark)
