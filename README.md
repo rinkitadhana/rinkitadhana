@@ -7,6 +7,7 @@
 - Explore my repositories or check out my pinned ones to see my latest and most popular work.
 - Exploring Open Source and making meaningful contributions.
 - Run `npx rinkit` to view my portfolio right from your terminal.
+- If you enjoy my work and would like to support me, please consider sponsoring me.
 
 
 ## Code Stats
