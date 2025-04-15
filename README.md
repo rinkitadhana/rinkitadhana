@@ -1,4 +1,4 @@
-# Hi there :wave:, I'm Rinkit Adhana! 
+# Hi there, I'm Rinkit Adhana! 
 **Software Engineer | Open Source Enthusiast**
 
 ## About me
