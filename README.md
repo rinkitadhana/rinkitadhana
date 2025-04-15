@@ -1,7 +1,7 @@
-## Hi there :wave:, I'm Rinkit Adhana! 
+# Hi there :wave:, I'm Rinkit Adhana! 
 **Software Engineer | Open Source Enthusiast**
 
-### About me
+## About me
 
 - I'm an undergraduate Computer Science student and a full-stack engineer who loves building and shipping things.
 - Explore my repositories or check out my pinned ones to see my latest and most popular work.
@@ -9,16 +9,17 @@
 - Run `npx rinkit` to view my portfolio right from your terminal.
 
 
-### GitHub Stats
-![Rinkit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinkitadhana&show_icons=true&theme=dark)  ![Rinkit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rinkitadhana&theme=dark)
+## GitHub Stats
+![Rinkit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinkitadhana&show_icons=true&theme=dark)
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rinkitadhana&theme=dark)
 
 
-
-### Visitor count
+## Visitor count
 ![Visitor Count](https://count.getloli.com/get/@rinkitadhana?theme=rule34)
 
 
-### Get in touch
+## Get in touch
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](https://rinkit.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rinkitadhana)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/damnGruz)
