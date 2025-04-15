@@ -1,20 +1,25 @@
-# Hey there :wave:
+## Hi there :wave:, I'm Rinkit Adhana! 
+**Software Engineer | Open Source Enthusiast**
 
-<img src="https://github.com/rinkitadhana/rinkitadhana/assets/115058302/81855ae1-cfb8-45c5-b7c8-5f52407c74bb" alt="Hello world">
+### About me
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rinkitadhana/count.svg" />
-</p>
+- I'm an undergraduate Computer Science student and a full-stack engineer who loves building and shipping things.
+- Explore my repositories or check out my pinned ones to see my latest and most popular work.
+- Exploring Open Source and making meaningful contributions.
+- Run `npx rinkit` to view my portfolio right from your terminal.
 
-## About me | `npx rinkit`
 
-Hey, I'm Rinkit Adhana, an undergraduate Computer Science student and full-stack developer who loves building and shipping things.
+### GitHub Stats
+![Rinkit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinkitadhana&show_icons=true&theme=dark)  ![Rinkit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rinkitadhana&theme=dark)
 
-I mainly work with React.js, Next.js, and Node.js for both frontend and backend, using TypeScript alongside them. I have created many cool projects using these technologies.
-## Get in touch :coffee:
 
-- **therinkit@gmail.com**
-- [X ](https://x.com/damnGruz)
-- [LinkedIn](https://www.linkedin.com/in/rinkitadhana)
 
+### Visitor count
+![Visitor Count](https://count.getloli.com/get/@rinkitadhana?theme=rule34)
+
+
+### Get in touch
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](https://rinkit.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rinkitadhana)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/damnGruz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rinkitadhana)
