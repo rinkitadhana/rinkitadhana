@@ -1,4 +1,4 @@
-# Hi there, I'm Rinkit Adhana!
+# Hii there, I'm Rinkit Adhana!
 **Software Engineer**
 
 ## About me
