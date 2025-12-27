@@ -3,7 +3,7 @@
 
 ## About me
 
-- I'm an undergraduate Computer Science student and a full-stack engineer who loves building and shipping things.
+- Im an undergraduate Computer Science student and a full-stack engineer who loves building and shipping things.
 - Explore my repositories or check out my pinned ones to see my latest and most popular work.
 - Exploring Open Source and making meaningful contributions
 
